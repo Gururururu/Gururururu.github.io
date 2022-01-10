@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Guru blog </title>
+    <title>Tags on Guru </title>
     <link>https://Gururururu.github.io/tags/</link>
-    <description>Recent content in Tags on Guru blog </description>
+    <description>Recent content in Tags on Guru </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 09 Jan 2022 20:00:00 +0800</lastBuildDate><atom:link href="https://Gururururu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
