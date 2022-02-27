@@ -13,7 +13,7 @@ $(document).on('click','a',function(event){
   
 })
 
-var s = skrollr.init()
+// var s = skrollr.init()
 
 $(function(){
     var $li = $('ul.tab-title li');
