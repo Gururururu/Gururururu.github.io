@@ -46,7 +46,7 @@ header {
   left: -25%;
   top: 25%;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
-  background-image: url("https://scontent.frmq2-2.fna.fbcdn.net/v/t1.18169-9/17522773_1400598730015093_3385026897004038718_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=6-UStluEE_EAX8VtiyY&_nc_ht=scontent.frmq2-2.fna&oh=00_AT-wRNaWAnmdta33_UcZTS4sI6KFoqEejdrzXxEPr_Mk8A&oe=623EAEEE");
+  background-image: url("https://scontent.frmq2-2.fna.fbcdn.net/v/t1.18169-9/17522773_1400598730015093_3385026897004038718_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=qyxWX2AE_94AX9ZZA7-&tn=-0Vf7HAXRPk6oUpY&_nc_ht=scontent.frmq2-2.fna&oh=00_AT8nCjUbkj2bVrSoWZSX5a12AcV-mYmi9EB8JC27wWKUDw&oe=627A026E");
   background-size: 100% auto;
 }
 
@@ -305,6 +305,7 @@ a {
   justify-content: space-between;
   align-items: center;
   padding-top: 10px;
+  margin-top: 10px;
 }
 
 .listprogram .bar {
@@ -352,8 +353,8 @@ a {
 }
 
 .title {
-  font-size: 15pt;
-  letter-spacing: 3pt;
+  font-size: 13pt;
+  letter-spacing: 2pt;
   color: #a5a5a5;
   padding: 5px;
 }
@@ -548,10 +549,10 @@ section#section_more {
   transition-duration: 0.5s;
 }
 .protfolio .card1:before {
-  background-image: url("https://scontent.frmq2-2.fna.fbcdn.net/v/t39.30808-6/273985017_6903833789691532_240107075036259330_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=LBLSxA1jM7IAX8g9r6k&tn=b_ExvngzFrs8rGiM&_nc_ht=scontent.frmq2-2.fna&oh=00_AT9UoQYAES1MUAL-mwCsETOhgKTkpFJhIUCdrH_0v8qEKA&oe=622FCABD");
+  background-image: url("https://scontent.frmq2-2.fna.fbcdn.net/v/t39.30808-6/273985017_6903833789691532_240107075036259330_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=ioYEryHrIKsAX8LEcKc&_nc_ht=scontent.frmq2-2.fna&oh=00_AT8JrFoFyJ8XLJqRm3F_FbVImVdJs9u9IG8oCvjY2Aqm_g&oe=625951FD");
 }
 .protfolio .card2:before {
-  background-image: url("https://scontent.frmq2-2.fna.fbcdn.net/v/t39.30808-6/273914659_6903833563024888_5280068096228936689_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=cn3KOCU9yNcAX8uqRub&_nc_ht=scontent.frmq2-2.fna&oh=00_AT9B9eE0xzu0FEI5Qa_0LMoj2BM5hu_PHyJ8x2ebdxRk0Q&oe=6230655E");
+  background-image: url("https://scontent.frmq2-2.fna.fbcdn.net/v/t39.30808-6/273914659_6903833563024888_5280068096228936689_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=GFpG2F4O9OIAX9gXeas&_nc_ht=scontent.frmq2-2.fna&oh=00_AT8J30lJKxUVJpLX-ZQsEWuOKWWUp37OaVmxg1Bjvv5Jcg&oe=6259EC9E");
 }
 
 .control {
